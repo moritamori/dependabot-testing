@@ -16,7 +16,5 @@
     "url": "https://github.com/moritamori/dependabot-testing/issues"
   },
   "homepage": "https://github.com/moritamori/dependabot-testing#readme",
-  "dependencies": {
-    "axios": "^0.19.2"
-  }
+  "dependencies": {}
 }
